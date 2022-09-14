@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="64dfc736-3fb5-4486-802d-c332c90f02fd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reducers/leaders-reducer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/reducers/leaders-reducer.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ReactFuncionalComponent File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectId" id="1b84wuYq94io98QKJAjrWUgzJ0I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/components" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="B:\Ahmed\Desktop\react\my-app\src" />
+      <recent name="B:\Ahmed\Desktop\react\my-app\src\redux\reducers" />
+      <recent name="C:\Users\AhmadE\Desktop\New folder\my-app\src\shared" />
+      <recent name="C:\Users\AhmadE\Desktop\New folder\my-app\src\components" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="B:\Ahmed\Desktop\react\my-app\src\components" />
+      <recent name="C:\Users\AhmadE\Desktop\New folder\my-app\public\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$">
+      <EXTENSION ID="com.jetbrains.nodejs.run.NodeJSStartBrowserRunConfigurationExtension">
+        <browser start="true" url="http://localhost:8000" />
+      </EXTENSION>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64dfc736-3fb5-4486-802d-c332c90f02fd" name="Default Changelist" comment="" />
+      <created>1588000628066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588000628066</updated>
+      <workItem from="1588000634136" duration="4282000" />
+      <workItem from="1588072119639" duration="2712000" />
+      <workItem from="1588088556338" duration="5956000" />
+      <workItem from="1588156333289" duration="10034000" />
+      <workItem from="1588257060983" duration="2983000" />
+      <workItem from="1589850103426" duration="4934000" />
+      <workItem from="1589891354676" duration="20730000" />
+      <workItem from="1590107010411" duration="5727000" />
+      <workItem from="1590144153339" duration="33841000" />
+      <workItem from="1590240868522" duration="11977000" />
+      <workItem from="1590606220705" duration="11661000" />
+    </task>
+    <task id="LOCAL-00001" summary="assignment 1">
+      <created>1588120579786</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588120579786</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Presentational and Container Components">
+      <created>1588164528789</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588164528790</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Functional Components">
+      <created>1588165752509</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588165752509</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Header and Footer">
+      <created>1588166943002</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588166943002</updated>
+    </task>
+    <task id="LOCAL-00005" summary="React Router">
+      <created>1588171918541</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1588171918541</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Single Page Applications Part 1">
+      <created>1588172434241</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1588172434241</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Single Page Applications Part 2">
+      <created>1589852024541</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1589852024542</updated>
+    </task>
+    <task id="LOCAL-00008" summary="controlled forms">
+      <created>1590160632376</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590160632376</updated>
+    </task>
+    <task id="LOCAL-00009" summary="uncontrolled forms">
+      <created>1590162653414</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590162653414</updated>
+    </task>
+    <task id="LOCAL-00010" summary="introduction to redux">
+      <created>1590167333191</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590167333191</updated>
+    </task>
+    <task id="LOCAL-00011" summary="react redux forms and validation">
+      <created>1590177652754</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1590177652754</updated>
+    </task>
+    <task id="LOCAL-00012" summary="redux actions, combining reducers, adding dispatch and clean DishDetail component">
+      <created>1590205619803</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1590205619803</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Redux Thunk">
+      <created>1590245248838</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1590245248838</updated>
+    </task>
+    <task id="LOCAL-00014" summary="using Form instead of LocalForm: add forms-reducer.js">
+      <created>1590246856881</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1590246856881</updated>
+    </task>
+    <task id="LOCAL-00015" summary="add missing file Loading">
+      <created>1590246929352</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1590246929352</updated>
+    </task>
+    <task id="LOCAL-00016" summary="clean code">
+      <created>1590251482456</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1590251482456</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fetch from server and handling errors">
+      <created>1590618370656</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1590618370656</updated>
+    </task>
+    <task id="LOCAL-00018" summary="post comment">
+      <created>1590620174137</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1590620174137</updated>
+    </task>
+    <task id="LOCAL-00019" summary="assignment4: task 1&amp;2">
+      <created>1590624577390</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1590624577390</updated>
+    </task>
+    <task id="LOCAL-00020" summary="assignment4: task3(animation)">
+      <created>1590625828134</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1590625828134</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="assignment 1" />
+    <MESSAGE value="Presentational and Container Components" />
+    <MESSAGE value="Functional Components" />
+    <MESSAGE value="Header and Footer" />
+    <MESSAGE value="React Router" />
+    <MESSAGE value="Single Page Applications Part 1" />
+    <MESSAGE value="Single Page Applications Part 2" />
+    <MESSAGE value="controlled forms" />
+    <MESSAGE value="uncontrolled forms" />
+    <MESSAGE value="introduction to redux" />
+    <MESSAGE value="react redux forms and validation" />
+    <MESSAGE value="redux actions, combining reducers, adding dispatch and clean DishDetail component" />
+    <MESSAGE value="Redux Thunk" />
+    <MESSAGE value="using Form instead of LocalForm: add forms-reducer.js" />
+    <MESSAGE value="add missing file Loading" />
+    <MESSAGE value="clean code" />
+    <MESSAGE value="fetch from server and handling errors" />
+    <MESSAGE value="post comment" />
+    <MESSAGE value="assignment4: task 1&amp;2" />
+    <MESSAGE value="assignment4: task3(animation)" />
+    <option name="LAST_COMMIT_MESSAGE" value="assignment4: task3(animation)" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="42" key="#ESLint" timestamp="1590606378183">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="42" key="#ESLint/0.0.1366.768@0.0.1366.768" timestamp="1590606378183" />
+    <state x="0" y="11" key="#Live_Templates" timestamp="1590160121869">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="11" key="#Live_Templates/0.0.1366.768@0.0.1366.768" timestamp="1590160121869" />
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588076958005">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="137" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.768@0.0.1366.768" timestamp="1588076958005" />
+    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1590625827269">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1590625827269" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1588372266610">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1588372266610" />
+    <state width="1345" height="199" key="GridCell.Tab.0.bottom" timestamp="1588077909218">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1588077909218" />
+    <state width="1345" height="199" key="GridCell.Tab.0.center" timestamp="1588077909218">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1588077909218" />
+    <state width="1345" height="199" key="GridCell.Tab.0.left" timestamp="1588077909218">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1588077909218" />
+    <state width="1345" height="199" key="GridCell.Tab.0.right" timestamp="1588077909218">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1588077909218" />
+    <state x="184" y="26" key="SettingsEditor" timestamp="1590161768033">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="184" y="26" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1590161768033" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1590626080070">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1590626080070" />
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1589851725266">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1589851725266" />
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1589851370810">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1366.768@0.0.1366.768" timestamp="1589851370810" />
+    <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590246210269">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="492" y="300" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1590246210269" />
+    <state x="380" y="116" width="606" height="536" key="find.popup" timestamp="1590111608607">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="380" y="116" width="606" height="536" key="find.popup/0.0.1366.768@0.0.1366.768" timestamp="1590111608607" />
+    <state x="339" y="172" key="run.anything.popup" timestamp="1590110876596">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="339" y="172" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1590110876596" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1590624587115">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1590624587115" />
+  </component>
+</project>
